@@ -1,0 +1,5 @@
+name: Multitools
+version: '${project.version}'
+main: fr.inconito001.multitools.Multitools
+api-version: 1.17
+authors: [ inconito001 ]
